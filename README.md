@@ -29,3 +29,4 @@ Online judge system - https://judge.softuni.org/
 ## Additional resources
 
 - [Course page - Programming Fundamentals with Python - may 2022](https://softuni.bg/trainings/3733/programming-fundamentals-with-python-may-2022)
+- [Official Python documentation](https://docs.python.org/3/)
